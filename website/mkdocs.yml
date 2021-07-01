@@ -1,0 +1,12 @@
+site_name: KOB Phone Number Verification Service
+theme:
+    name: material
+markdown extensions:
+    - attr_list    
+nav:
+    - Overview: index.md
+    - Motivation: motivation.md
+    - Status of the project: status.md
+    - Solution: solution.md
+    - Contributors: contributors.md
+    - License: license.md
